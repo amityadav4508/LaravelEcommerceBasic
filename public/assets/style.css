@@ -1,0 +1,41 @@
+.custom-login{
+    height: 500px;
+    padding-top: 100px;
+}
+
+.custom-product{
+    height: 650px;
+}
+
+.slidder-img{
+    height: 400px !important;
+}
+
+.carousel-caption{
+    background: #b2c2c25e !important;
+}
+
+.trending-img{
+    height: 100px;
+}
+.trending-wrapper{
+    margin-left: 40px;
+}
+.detail-img{
+    height: 250px;
+    margin-top: 50px;
+}
+.search-box{
+    width: 500px !important;
+}
+.cart-list-devider{
+    border-bottom: 1px solid rgb(58, 56, 56);
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
